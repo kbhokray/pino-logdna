@@ -54,7 +54,7 @@
   },
   "homepage": "https://github.com/logdna/pino-logdna#readme",
   "dependencies": {
-    "@logdna/logger": "github:kbhokray/logger-node",
+    "@logdna/logger": "https://github.com/kbhokray/logger-node/tarball/main",
     "nopt": "^5.0.0",
     "pino-abstract-transport": "^0.5.0"
   },
